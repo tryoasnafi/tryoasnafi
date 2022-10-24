@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Tryo Asnafi</h1>
+
 - 🔭 I’m currently working as a **Freelance Software Developer**
 
 - 🌱 I’m currently learning **Node.js and Rust**
