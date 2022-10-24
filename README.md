@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a **Freelance Software Developer**
 
-- 🌱 I’m currently learning **Node.js and Rust**
+- 🌱 I’m currently learning **System Design and Rust** 🦀
 
 - 💬 Ask me about **PHP, JavaScript, TypeScript, Node.js, Express, Laravel, Adonis.Js**
 
