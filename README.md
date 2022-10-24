@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tryoasnafi@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/tryoasnafi](linkedin.com/in/tryoasnafi)
+- 📄 Know about my experiences at [https://linkedin.com/in/tryoasnafi](linkedin.com/in/tryoasnafi)
 
 - ⚡ Fun fact **I think i want to collaborate with u :)**
 
