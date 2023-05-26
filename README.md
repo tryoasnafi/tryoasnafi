@@ -1,16 +1,16 @@
 <h1>Hi 👋, I'm Tryo Asnafi</h1>
 
-- 🔭 I’m currently working as a **Freelance Software Developer**
+- 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **System Design and Rust** 🦀
-
-- 💬 Ask me about **PHP, JavaScript, TypeScript, Node.js, Express, Laravel, Adonis.Js**
+- 🌱 I’m currently learning **Backend Engineering and Golang**
+-
+- 💬 Ask me about **PHP, JavaScript, TypeScript, Node.js, Express, Laravel, Adonis.Js, Golang**
 
 - 📫 How to reach me **tryoasnafi@gmail.com**
 
 - 📄 Know about my experiences at [https://linkedin.com/in/tryoasnafi](linkedin.com/in/tryoasnafi)
 
-- ⚡ Fun fact **I think i want to collaborate with u :)**
+- ⚡ Fun fact **i learn by staring people code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
