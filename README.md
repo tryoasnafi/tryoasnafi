@@ -1,19 +1,20 @@
 <h1>Hi 👋, I'm Tryo Asnafi</h1>
 
-- 🔭 I’m currently working as a **Software Developer**
+- 🔭 I’m currently working as a **Software Developer** 
 
 - 🌱 I’m currently learning **Backend Engineering and Golang**
 
-- 💬 Ask me about **PHP, JavaScript, TypeScript, Node.js, Express, Laravel, Adonis.Js, Golang**
+- 💬 Ask me about **Golang, JavaScript, TypeScript, Node.js, Express, Adonis.Js, PHP, Laravel**
 
 - 📫 How to reach me **tryoasnafi@gmail.com**
 
 - 📄 Know about my experiences at [https://linkedin.com/in/tryoasnafi](linkedin.com/in/tryoasnafi)
 
-- ⚡ Fun fact **i learn by staring people code**
+- ⚡ Fun fact **i learn by staring at people's code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://facebook.com/tryoasnafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tryo Asnafi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tryoasnafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tryoasnafi" height="30" width="40" /></a>
 <a href="https://medium.com/@asnafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asnafi" height="30" width="40" /></a>
 </p>
