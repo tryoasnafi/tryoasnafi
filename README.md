@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tryo Asnafi</h1>
+<h1>Hi 👋, I'm Asnafi</h1>
 
 - 🔭 I’m currently working as a **Software Developer** 
 
