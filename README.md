@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Asnafi</h1>
 
-- 🔭 I’m currently working as a **Software Developer** 
+- 🔭 I’m currently working as a **Software Engineer** 
 
-- 🌱 I’m currently learning **Backend Engineering and Golang**
+- 🌱 I’m currently learning **Backend Engineering and System Programming w/ Go**
 
-- 💬 Ask me about **Golang, JavaScript, TypeScript, Node.js, Express, Adonis.Js, PHP, Laravel**
+- 💬 Ask me about **Golang, JavaScript, TypeScript, Node.js, Express, React.js, Svelte, Adonis.Js, PHP, Laravel**
 
 - 📫 How to reach me **tryoasnafi@gmail.com**
 
